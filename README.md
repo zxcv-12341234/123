@@ -17,7 +17,9 @@
 
  **java** 
 
+
 - common     
+
         · config        配置类
 
         ·enumresource   枚举类
@@ -33,17 +35,26 @@
         · xss            xss相关类
        
 - controller  
-- dao      
-- entity     
+
+- dao   
+   
+- entity   
+  
 - service
+
 
  **resources** 
 
 - db.migration     flyway sql脚本
+
 - generator        代码生成器相关配置
+
 - mapper           mapper文件
+
 - static           静态文件
+
 - templates        freemarker页面
+
 
 
  **如何启动**
