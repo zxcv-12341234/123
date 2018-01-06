@@ -19,11 +19,17 @@
 
 - common     
         · config        配置类
+
         ·enumresource   枚举类
+
         · exception     统一异常处理
+
         · log           统一日志处理
+
         · shiro         shiro相关
+
         · utils         工具类
+
         · xss            xss相关类
        
 - controller  
